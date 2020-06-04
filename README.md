@@ -10,6 +10,6 @@
   
 ![task solution](/jQExercise.jpg)
 
-![task solution1](../homePage.jpg)
+![task solution1](/jQuery_DOM_ManipulationAndTraversing/homePage.jpg)
 
 
