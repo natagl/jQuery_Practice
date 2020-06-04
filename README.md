@@ -9,6 +9,7 @@
 - In the form, change the border color of the focused input
   
 ![task solution](/jQExercise.jpg)
-![task solution1](../homePage.jpg)
+
+![task solution1](./../homePage.jpg)
 
 
